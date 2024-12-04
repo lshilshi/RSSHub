@@ -437,6 +437,9 @@
   "/amazon/kindle/software-updates": [
     "EthanWng97"
   ],
+  "/amz123/kx": [
+    "defp"
+  ],
   "/android/platform-tools-releases": [
     "nczitzk"
   ],
@@ -3139,7 +3142,8 @@
     "keocheung"
   ],
   "/hbr/topic/:topic?/:type?": [
-    "nczitzk"
+    "nczitzk",
+    "pseudoyu"
   ],
   "/hdu/cs": [
     "legr4ndk"
